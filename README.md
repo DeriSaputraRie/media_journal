@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # media_journal
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# media_journal
+>>>>>>> c983443854cfc84d0ebee8ad8bc5337d3c517cd7
